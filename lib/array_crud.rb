@@ -1,5 +1,5 @@
 def create_an_empty_array
-  classes = [math, eng, span, fren]
+  classes = []
 end
 
 def create_an_array
