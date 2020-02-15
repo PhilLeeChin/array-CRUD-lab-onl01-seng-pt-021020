@@ -1,5 +1,5 @@
 def create_an_empty_array
-  
+  [maths, eng, span, fren]
 end
 
 def create_an_array
